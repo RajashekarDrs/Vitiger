@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[click on Organization Link Successful]]>
+    </line>
+    <line>
+      <![CDATA[click on create Organization lookup img successful]]>
+    </line>
+    <line>
+      <![CDATA[create Organization with mandatory details Successful]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to contacts Link successful]]>
+    </line>
+    <line>
+      <![CDATA[Click on create contact lookup img Successful]]>
+    </line>
+    <line>
+      <![CDATA[Create contact with mandatory fields and save Successful]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-29T12:38:49 IST" name="Default suite" finished-at="2023-03-29T12:40:34 IST" duration-ms="104475">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T12:38:49 IST" name="Default test" finished-at="2023-03-29T12:40:34 IST" duration-ms="104475">
+      <class name="Vitiger.Contacts.CreateContactWithOrganizationTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:Vitiger.Contacts.CreateContactWithOrganizationTest@1189dd52]" started-at="2023-03-29T12:38:49 IST" name="bsConfig" finished-at="2023-03-29T12:38:49 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:Vitiger.Contacts.CreateContactWithOrganizationTest@1189dd52]" started-at="2023-03-29T12:38:49 IST" name="bcConfig" finished-at="2023-03-29T12:39:25 IST" duration-ms="35782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:Vitiger.Contacts.CreateContactWithOrganizationTest@1189dd52]" started-at="2023-03-29T12:39:25 IST" name="bmConfig" finished-at="2023-03-29T12:39:31 IST" duration-ms="5970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createContactWithOrganizationTest()[pri:0, instance:Vitiger.Contacts.CreateContactWithOrganizationTest@1189dd52]" started-at="2023-03-29T12:39:31 IST" name="createContactWithOrganizationTest" finished-at="2023-03-29T12:40:28 IST" duration-ms="57153" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[click on Organization Link Successful]]>
+            </line>
+            <line>
+              <![CDATA[click on create Organization lookup img successful]]>
+            </line>
+            <line>
+              <![CDATA[create Organization with mandatory details Successful]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to contacts Link successful]]>
+            </line>
+            <line>
+              <![CDATA[Click on create contact lookup img Successful]]>
+            </line>
+            <line>
+              <![CDATA[Create contact with mandatory fields and save Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrganizationTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:Vitiger.Contacts.CreateContactWithOrganizationTest@1189dd52]" started-at="2023-03-29T12:40:28 IST" name="amConfig" finished-at="2023-03-29T12:40:32 IST" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:Vitiger.Contacts.CreateContactWithOrganizationTest@1189dd52]" started-at="2023-03-29T12:40:32 IST" name="acConfig" finished-at="2023-03-29T12:40:34 IST" duration-ms="2237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:Vitiger.Contacts.CreateContactWithOrganizationTest@1189dd52]" started-at="2023-03-29T12:40:34 IST" name="asConfig" finished-at="2023-03-29T12:40:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- Vitiger.Contacts.CreateContactWithOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
